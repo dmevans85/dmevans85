@@ -2,7 +2,7 @@
 
 **Senior Security Consultant | Penetration Testing | Offensive Security | Security Research**
 
-I am a security consultant returning to the profession after a career break, with 13+ years of previous professional experience across penetration testing, vulnerability research and client-facing security consultancy.
+I am a security consultant returning to the profession after a career break, with 20+ years of previous professional experience across penetration testing, vulnerability research and client-facing security consultancy.
 
 My background includes web and API security, internal and external infrastructure testing, Active Directory and identity security, mobile application testing, Citrix and VoIP assessments, vulnerability research, exploit development, reverse engineering, network/protocol analysis and technical reporting.
 
