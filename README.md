@@ -1,6 +1,6 @@
 # David Michael Evans
 
-**Senior Security Consultant | Penetration Testing | Offensive Security | Security Research**
+**Senior Security Consultant | Penetration Testing | Offensive Security | Security Research | Security Engineering**
 
 I am a security consultant returning to the profession after a career break, with 20+ years of previous professional experience across penetration testing, vulnerability research and client-facing security consultancy.
 
