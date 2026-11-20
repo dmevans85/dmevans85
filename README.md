@@ -2,7 +2,7 @@
 
 **Senior Security Consultant | Penetration Testing | Offensive Security | Security Research | Security Engineering**
 
-I'm a security consultant with 20+ years of experience in the IT industry, thirteen of them in professional penetration testing and security consultancy. I started out in system and network administration before moving into security field. I have delivered web application, API, infrastructure, mobile, Citrix and VoIP assessments for commercial and government clients. I also bring experience in Active Directory and identity security, along with vulnerability research, exploit development, reverse engineering and network and protocol analysis.
+I'm a security consultant with 20+ years of experience in the IT industry, thirteen of them in professional penetration testing and security consultancy. I started out in system and network administration before moving into the security industry. I have delivered web application, API, infrastructure, mobile, Citrix and VoIP assessments for commercial and government clients. I also bring experience in Active Directory and identity security, along with vulnerability research, exploit development, reverse engineering and network and protocol analysis.
 
 I held senior consulting roles at Rootshell Security, Pentest Partners, InteliSecure and Pentura before taking a career break. Since March 2026 I've been working my way back in through a structured technical re-entry, building and testing real systems rather than relying on study alone. I'm now looking for a senior, hands-on, security role where testing, engineering judgement and clear client communication all matter.
 
