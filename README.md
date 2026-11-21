@@ -30,4 +30,4 @@ I held senior consulting roles at Rootshell Security, Pentest Partners, InteliSe
 
 ## Contact
 
-[dmevans.dev](https://dmevans.dev) | [LinkedIn](https://www.linkedin.com/in/dmevans85/) | [dmevans85@proton.me](mailto:dmevans85@proton.me)
+[dmevans.dev](https://dmevans.dev) | [LinkedIn](https://www.linkedin.com/in/dmevans85/) | [info@dmevans.dev](mailto:info@dmevans.dev)
